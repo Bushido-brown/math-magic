@@ -144,4 +144,3 @@ describe('Test the conditions before the operations in calculate.js', () => {
     });
   });
 });
-
